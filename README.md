@@ -57,5 +57,8 @@ Finetine_English_Bert.ipynb shows the process of finetuning English BERT
 
 Sentiment_Analysis.ipynb shows the process of Sentiment Analysis
 
+## TTF file 
+STFangSong.ttf is the file for Chinese wordcloud.
 
-
+## Credits
+This project was developed by Changzhou Li. I acknowledge the contributions from Jesse Blocher for his invaluable feedback.
