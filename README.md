@@ -1,6 +1,6 @@
 # Douyin Comment Sentiment Analysis
 
-## Description
+## Repository Description
 This is the repository for Capstone project Douyin Comment Sentiment Analysis, which aims to analyze the sentiment of comments on Douyin. Using a BERT-based model, we classify comments into positive, neutral, and negative categories. 
 
 ## Installation
@@ -42,6 +42,8 @@ annotated_translated_li_comment.xlsx is the data for Li with ChatGPT translation
 annotated_translated_aito_comment.xlsx is the data for Aito with ChatGPT translation translated by ChatGPT
 
 ## Notebooks
+
+The filefolder Notebooks contain all the notebooks for the analysis, here are the description of notebooks:
 
 Data_Cleaning_N_EDA.ipynb shows the data cleaning and EDA process
 
