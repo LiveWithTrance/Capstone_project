@@ -1,19 +1,23 @@
-# Capstone_project
+# Douyin Comment Sentiment Analysis
 
-# Introduction
+## Description
+This is the repository for Capstone project Douyin Comment Sentiment Analysis, which aims to analyze the sentiment of comments on Douyin. Using a BERT-based model, we classify comments into positive, neutral, and negative categories. 
+
+## Installation
+To set up the project environment:
+
+1. Clone the repository:
+
+2. Install required packages:
+pip install -r requirements.txt
+
+Now you should be able to run all the notebooks I provided.
+
+## Data
 
 ## Data Acquisation
 
-The review is scraped by BaiduSpider
+The review is scraped by MediaCrawler: https://github.com/NanmiCoder/MediaCrawler
 
-
-Based on the Robots.txt on Douyin(https://www.douyin.com/robots.txt). BaiduSpider is allowed to scrape the comment.
-
-BaiduSpider is 
-
-Github Link:
-https://github.com/BaiduSpider/BaiduSpider/?tab=readme-ov-file#%E5%AE%89%E8%A3%85
-
-
-
+## 
 
