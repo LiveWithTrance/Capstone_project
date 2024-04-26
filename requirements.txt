@@ -1,0 +1,13 @@
+pandas
+openpyxl
+matplotlib
+jieba
+wordcloud
+spacy
+torch
+transformers
+scikit-learn
+numpy>=1.20.3
+openai
+pyecharts
+
