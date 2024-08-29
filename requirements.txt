@@ -11,3 +11,4 @@ numpy>=1.20.3
 openai
 pyecharts
 
+sds
