@@ -12,3 +12,7 @@ openai
 pyecharts
 
 sds
+sdasdasdasda
+sd
+
+sos
